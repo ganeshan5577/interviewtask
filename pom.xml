@@ -21,7 +21,7 @@
 		<slf4j.version>1.7.25</slf4j.version>
 		<spring-ws.version>3.0.0.RELEASE</spring-ws.version>
 		<spring-security-jwt.version>1.0.5.RELEASE</spring-security-jwt.version>
-		<spring-security-oauth.version>2.0.12.RELEASE</spring-security-oauth.version>
+		<spring-security-oauth.version>2.4.0.RELEASE</spring-security-oauth.version>
 </properties>
 
 	<dependencies>
