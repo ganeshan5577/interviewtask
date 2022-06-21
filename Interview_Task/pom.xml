@@ -14,7 +14,7 @@
 		<!-- <spring.security.version>3.2.5.RELEASE</spring.security.version> -->
 		<ehcache.version>2.10.4</ehcache.version>
 		<!-- <mysql.driver>5.1.39</mysql.driver> -->
-		<mysql.driver>8.0.17</mysql.driver>
+		<mysql.driver>8.0.28</mysql.driver>
 		<mongodb.driver>3.6.2</mongodb.driver>
 		<javax.servlet>4.0.0</javax.servlet>
 		<json.version>20171018</json.version>
