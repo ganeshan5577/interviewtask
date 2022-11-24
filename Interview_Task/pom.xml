@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
 <properties>
 		<spring.version>4.3.12.RELEASE</spring.version>
-		<hibernate.version>4.2.6.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<jersey.version>2.25.1</jersey.version>
 		<!-- <spring.security.version>3.2.5.RELEASE</spring.security.version> -->
 		<ehcache.version>2.10.4</ehcache.version>
